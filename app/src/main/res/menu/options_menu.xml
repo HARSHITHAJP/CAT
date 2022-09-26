@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1"
+        android:icon="@mipmap/ic_launcher"
+        android:title="menu1">
+
+    </item>
+
+    <item android:id="@+id/menuRecycler"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Recycler">
+
+    </item>
+
+    <item android:id="@+id/menuSharedpref"
+        android:icon="@mipmap/ic_launcher"
+        android:title="SharedRef">
+
+    </item>
+
+    <item android:id="@+id/menuExit"
+            android:icon="@mipmap/ic_launcher"
+        android:title="exit">
+
+    </item>
+</menu>

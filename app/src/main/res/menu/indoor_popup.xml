@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popupmenu1"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Carrom">
+
+    </item>
+    <item android:id="@+id/popupmenu2"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Basketball">
+
+    </item>
+
+</menu>
